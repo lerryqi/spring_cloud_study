@@ -1,1 +1,3 @@
-neo.hello: test
+info:
+  profile: dev
+
